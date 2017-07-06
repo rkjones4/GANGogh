@@ -13,7 +13,6 @@ root='./fullimages'
 PATH = os.path.normpath('C:/Users/kenny/Desktop/toGit/misc/smallimages/')
 
 for subdir, dirs, files in os.walk(root):
-    count += 1
     style = subdir[2:]
     name =  style
     if len(style) < 1:
