@@ -1,5 +1,7 @@
 # GANGogh
 
+Blog post: https://github.com/rkjones4/GANGogh
+
 Note: Code heavily inspired and built off of the improved wasserstein GAN training code available and found at: https://github.com/igul222/improved_wgan_training
 
 ## Usage:
