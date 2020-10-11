@@ -4,6 +4,10 @@ Blog post: https://towardsdatascience.com/gangogh-creating-art-with-gans-8d087d8
 
 Note: Code heavily inspired and built off of the improved wasserstein GAN training code available and found at: https://github.com/igul222/improved_wgan_training
 
+## Updated Code
+
+@rodrigobodz has created an updated version of the codebase with improved documentation, please find it at https://github.com/rodrigobdz/GANGogh. 
+
 ## Usage:
 
 ### Step 1 - Gather training data
