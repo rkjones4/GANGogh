@@ -6,7 +6,7 @@ Note: Code heavily inspired and built off of the improved wasserstein GAN traini
 
 ## Updated Code
 
-@rodrigobodz has created an updated version of the codebase with improved documentation, please find it at https://github.com/rodrigobdz/GANGogh. 
+[@rodrigobdz](https://github.com/rodrigobdz) has created an updated version of the codebase with improved documentation, please find it at https://github.com/rodrigobdz/GANGogh. 
 
 ## Usage:
 
